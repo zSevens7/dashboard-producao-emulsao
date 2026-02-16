@@ -1,0 +1,15 @@
+# --- Interface e Dashboard ---
+streamlit
+plotly
+
+# --- Manipulação e Cálculo de Dados ---
+pandas
+numpy
+scikit-learn
+
+# --- Conexão Google Sheets ---
+gspread
+google-auth
+
+# --- Inteligência Artificial e Previsão ---
+prophet

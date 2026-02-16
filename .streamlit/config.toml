@@ -1,0 +1,11 @@
+[theme]
+base = "dark"
+primaryColor = "#00d4ff"               # Ciano Neon (Botões e Sliders)
+backgroundColor = "#0e1117"            # Azul Quase Preto (Fundo Principal)
+secondaryBackgroundColor = "#262730"   # Cinza Azulado (Barra Lateral)
+textColor = "#fafafa"                  # Branco Gelo
+font = "sans serif"
+
+[server]
+headless = true
+fileWatcherType = "none"
